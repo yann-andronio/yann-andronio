@@ -22,8 +22,7 @@ Bienvenue sur mon profil GitHub ! Je suis Développeur Full Stack JavaScript pas
 - Facebook : Yann Andronio
 
 
-## 😄 Pronoms
-- Il/Lui
+
 
 
 <!---
