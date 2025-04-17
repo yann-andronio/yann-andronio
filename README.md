@@ -40,3 +40,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="Photoshop" />
 </div>
+
+
+
+### 🌐 Projet Déployé
+
+| 🧩 Projet                | 📄 Description                                                                 | 🔗 Lien                                                                 |
+|--------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **👤 Portfolio React**   | Mon portfolio personnel interactif développé avec React.js, animations modernes, et responsive design. | [Voir en ligne 🌐](https://yann-portfolio.netlify.app/)        |
+
