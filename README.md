@@ -45,8 +45,7 @@
 
 ### 🌐 Projet Déployé
 
-| 🧩 Projet           | 📄 Description                          | 🔗 Lien                                                      |
-|---------------------|------------------------------------------|--------------------------------------------------------------|
-| **Portfolio React** | Portfolio personnel moderne en React.js | [Voir en ligne 🌐](https://yann-portfolio.netlify.app/)       |
-
+| 🧩 Projet           | 📄 Description                          | 🔗 Lien                                                                 |
+|---------------------|------------------------------------------|------------------------------------------------------------------------|
+| **Portfolio React** | Portfolio personnel moderne en React.js | <a href="https://yann-portfolio.netlify.app/" target="_blank">Voir en ligne 🌐</a> |
 
