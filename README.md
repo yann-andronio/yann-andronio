@@ -49,3 +49,13 @@
 |---------------------|------------------------------------------|------------------------------------------------------------------------|
 | **Portfolio React** | Portfolio personnel moderne en React.js | <a href="https://yann-portfolio.netlify.app/" target="_blank">Voir en ligne 🌐</a> |
 
+
+
+
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yann-andronio&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yann-andronio&layout=compact&langs_count=5&theme=dracula)
+
