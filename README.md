@@ -45,7 +45,8 @@
 
 ### 🌐 Projet Déployé
 
-| 🧩 Projet                | 📄 Description                                                                 | 🔗 Lien                                                                 |
-|--------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| **👤 Portfolio React**   | Mon portfolio personnel interactif développé avec React.js, animations modernes, et responsive design. | [Voir en ligne 🌐](https://yann-portfolio.netlify.app/)        |
+| 🧩 Projet           | 📄 Description                          | 🔗 Lien                                                      |
+|---------------------|------------------------------------------|--------------------------------------------------------------|
+| **Portfolio React** | Portfolio personnel moderne en React.js | [Voir en ligne 🌐](https://yann-portfolio.netlify.app/)       |
+
 
